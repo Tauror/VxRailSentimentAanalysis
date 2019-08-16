@@ -16,6 +16,8 @@ This view is subjective, all from public media as data source.
 ## 2. data source update
 * 2019/8/15: crawled data from Reddit: https://www.reddit.com/search/?q=vxrail
  ![Sentiment survey of VxRail on Reddit.png](/SentimentAanalysis/Sentiment_Survey_of_VxRail_on_Reddit.png)
+ ![Sentiment survey of VxRail on Reddit with release dates](/SentimentAanalysis/Sentiment_Survey_of_VxRail_on_Reddit2.png)
+
 * keep going on...
 
 
