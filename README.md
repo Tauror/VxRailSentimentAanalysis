@@ -31,3 +31,18 @@ https://monkeylearn.com/blog/creating-sentiment-analysis-model-with-scrapy/
 3. sklearn逻辑回归模型的情感分析例子
 https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184
 
+
+
+
+4. 网址搜集：
+https://www.reddit.com/search/?q=vxrail                     //已完成
+https://community.emc.com/community/products/vxrail         //帖子多，评论少
+https://communities.bmc.com/thread/194782                   //记录三条
+https://greencircle.vmturbo.com/thread/3105-who-use-turbonomic-with-vxrail   //5条记录，最多8个评论
+https://communities.vmware.com/thread/546148                //帖子多，评论少
+https://siliconangle.com/2019/05/06/customer-feedback-shows-early-promise-for-dell-technologies-cloud-platform-delltechworld/     //帖子多，无评论
+https://www.techtarget.com/search/query?q=vxrail   //180个帖子，无评论
+
+可行：
+https://twitter.com/vxrail
+https://www.dell.com/community/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&filter=location&location=category:English&q=vxrail            //482个帖子，评论每个2-5条       

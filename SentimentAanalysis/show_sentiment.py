@@ -1,6 +1,7 @@
 import xlrd
 import numpy as np
 import matplotlib.pyplot as plt
+from datetime import datetime
 
 
 # read the defaultdict and plot it
@@ -14,6 +15,8 @@ cols = worksheet.ncols  # 获取表格中已存在的数据的行数
 months = [worksheet.cell_value(i, 0) for i in range(1, rows)]
 levels = [round(worksheet.cell_value(i, 1),1) for i in range(1, rows)]
 crtc = np.ones((len(months)))*3
+
+months = [datetime.strptime(d, "%Y-%m") for d in months]
 
 plt.subplots(1)
 plt.plot(months, levels, 'r', linewidth=1, label='satisfaction level')
