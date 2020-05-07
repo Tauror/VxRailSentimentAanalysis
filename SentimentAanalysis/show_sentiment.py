@@ -48,3 +48,8 @@ profile = pandas_profiling.ProfileReport(data)
 profile.to_file('./SentimentAanalysis/mean_sentiments.html')
 
 '''
+
+
+# TODO:
+# 1.timeline 1 month/p;
+# 2.add install base hist.
